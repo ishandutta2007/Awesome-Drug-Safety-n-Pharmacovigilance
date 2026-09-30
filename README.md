@@ -59,9 +59,9 @@ The table below details enterprise SaaS solutions ranked by **Company Size / Val
 
 ## 🔓 Open-Source GitHub Projects
 
-The following active open-source tools provide R libraries, Python packages, and web applications for pharmacovigilance data ingestion, disproportionality analysis, and E2B standards. Repositories are sorted by **GitHub Star Count** (descending).
+The following active open-source tools provide R libraries, Python packages, and web applications for pharmacovigilance data ingestion, disproportionality analysis, and E2B standards. Repositories are sorted by **GitHub Stars_Count** (descending).
 
-| Repository / Project | Language / Tech | Stars | Description & Features |
+| Repository / Project | Language / Tech | GitHub_Stars | Description & Features |
 | :--- | :---: | :---: | :--- |
 | **[WangLabCSU/faers](https://github.com/WangLabCSU/faers)** 🧪 | R / Bioconductor | [<img src="https://img.shields.io/github/stars/WangLabCSU/faers?style=social&color=white" alt="faers stars"/>](https://github.com/WangLabCSU/faers/stargazers) | **High-fidelity R interface for FDA FAERS**. Standardized adverse event surveillance, data deduplication, and terminology mapping. |
 | **[bips-hb/pvm](https://github.com/bips-hb/pvm)** 📈 | R / C++ | [<img src="https://img.shields.io/github/stars/bips-hb/pvm?style=social&color=white" alt="pvm stars"/>](https://github.com/bips-hb/pvm/stargazers) | **Pharmacovigilance Methods Package**. Implements disproportionality analysis algorithms (PRR, ROR, BCPNN, MGPS) for signal detection. |
@@ -89,7 +89,7 @@ Contributions are highly appreciated! Help keep this pharmacovigilance directory
 
 1. **Fork** this repository. 🍴
 2. Edit `README.md` with factual, verifiable information. ✏️
-3. Ensure entries adhere to the table structure (including pricing, company size, and star badges). 📋
+3. Ensure entries adhere to the table structure (including pricing, company size, and Stars_Badges). 📋
 4. Submit a **Pull Request** with a descriptive summary of your changes. 🚀
 
 ---
